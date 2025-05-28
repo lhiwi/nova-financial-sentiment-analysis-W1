@@ -1,0 +1,21 @@
+@"
+# Data
+data/
+*.csv
+*.parquet
+
+# Environments
+.venv/
+env/
+
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+!settings.json
+"@ | Out-File .gitignore
