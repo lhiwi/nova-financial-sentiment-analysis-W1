@@ -3,7 +3,7 @@
 > **Predicting stock movements through NLP-driven sentiment analysis of financial headlines**  
 > *10 Academy - Artificial Intelligence Mastery Program*  
 
-## 📌 Challenge Overview
+##  Challenge Overview
 This project analyzes correlations between financial news sentiment and stock price movements for major companies including Apple (AAPL), Tesla (TSLA), and JPMorgan (JPM). Key tasks:
 
 - Perform EDA on financial news data
@@ -15,17 +15,15 @@ This project analyzes correlations between financial news sentiment and stock pr
 
 ---
 
-## 🚀 Quick Start (Windows)
 
 ### Prerequisites
 - Python 3.10+
 - Git
-- PowerShell
 
 ### Setup
 ```powershell
 # Clone repository
-git clone https://github.com/yourusername/week1-challenge.git
+git clone https://github.com/lhiwi/nova-financial-sentiment-analysis-W1.git
 cd week1-challenge
 
 # Create virtual environment
